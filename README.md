@@ -13,9 +13,13 @@ Each page shares a **common navigation bar and footer**. JavaScript is used to h
 ---
 ## Screenshots 
 
-<img width="2880" height="2192" alt="_C__Users_365%20Admin_Desktop_Task6_Contact%20 html" src="https://github.com/user-attachments/assets/7336d945-280d-4461-bac6-babca439aa2b" />
-<img width="2880" height="2072" alt="_C__Users_365%20Admin_Desktop_Task6_About html (1)" src="https://github.com/user-attachments/assets/dc3ad77c-944c-4540-828c-ce558b857eb4" />
-<img width="2880" height="2072" alt="_C__Users_365%20Admin_Desktop_Task6_about html" src="https://github.com/user-attachments/assets/d72a3f91-36b2-47c9-bfdc-008057b0b3a8" />
+<img width="2880" height="3670" alt="_C__Users_365%20Admin_Desktop_Task6_index html" src="https://github.com/user-attachments/assets/13d9f974-f299-4629-a3df-bfdbe027221f" />
+
+<img width="2880" height="2072" alt="_C__Users_365%20Admin_Desktop_Task6_About html" src="https://github.com/user-attachments/assets/abc48438-b38b-43b1-a6a5-b1338d828371" />
+
+<img width="2880" height="2192" alt="_C__Users_365%20Admin_Desktop_Task6_Contact%20 html (1)" src="https://github.com/user-attachments/assets/4a66c063-4a4d-448e-b58f-1e13d40d7b32" />
+
+
 
 ## 📁 File Structure
 Task6/
